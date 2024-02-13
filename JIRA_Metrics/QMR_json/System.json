@@ -1,0 +1,13 @@
+{
+        "api_credentials": {
+            "api_username": "",
+            "api_password": "",
+            "api_url": "https://issues.instance.net/rest/api/latest/search"
+        },
+        {
+            "All the JQL queries needed to be used here"
+        }
+        
+}
+    
+
